@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Scripts.Player
+namespace Scripts.EnemyPacages
 {
     public class Move : MonoBehaviour
     {
