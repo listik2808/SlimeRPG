@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Scripts.EnemyPacages
 {
-    public class Move : MonoBehaviour
+    public class MoveEnemy : MonoBehaviour
     {
     }
 }

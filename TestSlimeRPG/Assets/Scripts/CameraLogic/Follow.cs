@@ -1,9 +1,9 @@
 using Scripts.PlayerPacages;
 using UnityEngine;
 
-namespace Scripts.CameraPacages
+namespace Scripts.CameraLogic
 {
-    public class Move : MonoBehaviour
+    public class Follow : MonoBehaviour
     {
         [SerializeField] private Player _player;
         [SerializeField] private float _offSetX;
